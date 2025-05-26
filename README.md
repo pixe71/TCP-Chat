@@ -1,5 +1,7 @@
 # 🗨️ Simple TCP Chat in C#
 
+[![C#](https://img.shields.io/badge/C%23-Language-blue)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
 Welcome to this basic TCP chat application written in C#!  
 It consists of two console programs working together to send and receive messages over the network.
 
