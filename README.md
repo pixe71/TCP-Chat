@@ -1,4 +1,4 @@
-# 🗨️ Simple TCP Chat in C#
+# 🗨️ Simple TCP Chat
 
 [![C#](https://img.shields.io/badge/C%23-Language-blue)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
